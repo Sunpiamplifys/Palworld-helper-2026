@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=43&pause=650&color=00D9C0&center=true&vCenter=true&width=1100&height=130&lines=PALWORLD+HACK+2026;GOD+MODE+%7C+PAL+ESP+%7C+SPAWNER;CATCH+THEM+ALL" alt="Palworld Hack 2026" />
+![Uploading image.png…]()
 
 <br/>
 
